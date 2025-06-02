@@ -6,6 +6,7 @@ LeetCode Problem Solutions
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SahilB21/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/SahilB21/leetcode/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
@@ -15,6 +16,7 @@ LeetCode Problem Solutions
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SahilB21/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/SahilB21/leetcode/tree/master/0013-roman-to-integer) |
 ## Linked List
 |  |
@@ -24,4 +26,8 @@ LeetCode Problem Solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SahilB21/leetcode/tree/master/0002-add-two-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SahilB21/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
