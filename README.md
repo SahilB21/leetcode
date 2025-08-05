@@ -8,6 +8,7 @@ LeetCode Problem Solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SahilB21/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/SahilB21/leetcode/tree/master/0013-roman-to-integer) |
+| [0560-subarray-sum-equals-k](https://github.com/SahilB21/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
@@ -34,6 +35,7 @@ LeetCode Problem Solutions
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/SahilB21/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/SahilB21/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Design
 |  |
 | ------- |
@@ -42,4 +44,5 @@ LeetCode Problem Solutions
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/SahilB21/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/SahilB21/leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
