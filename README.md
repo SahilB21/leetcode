@@ -34,6 +34,7 @@ LeetCode Problem Solutions
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SahilB21/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0303-range-sum-query-immutable](https://github.com/SahilB21/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/SahilB21/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Design
@@ -45,4 +46,8 @@ LeetCode Problem Solutions
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/SahilB21/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/SahilB21/leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SahilB21/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
