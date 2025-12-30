@@ -6,6 +6,7 @@ LeetCode Problem Solutions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SahilB21/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SahilB21/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/SahilB21/leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/SahilB21/leetcode/tree/master/0217-contains-duplicate) |
@@ -37,6 +38,7 @@ LeetCode Problem Solutions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SahilB21/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SahilB21/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SahilB21/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SahilB21/leetcode/tree/master/0027-remove-element) |
