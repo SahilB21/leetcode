@@ -5,6 +5,7 @@ class Solution:
         for i, num in enumerate(nums):
             if target - num in numbers:
                 indices = [i, numbers[target-num]]
+                return indices
             numbers[num] = i
         return indices
         
