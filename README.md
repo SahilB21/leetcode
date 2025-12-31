@@ -42,6 +42,7 @@ LeetCode Problem Solutions
 | [0011-container-with-most-water](https://github.com/SahilB21/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SahilB21/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SahilB21/leetcode/tree/master/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SahilB21/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/SahilB21/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/SahilB21/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/SahilB21/leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -62,6 +63,7 @@ LeetCode Problem Solutions
 | [0011-container-with-most-water](https://github.com/SahilB21/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SahilB21/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SahilB21/leetcode/tree/master/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SahilB21/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
 |  |
 | ------- |
@@ -71,4 +73,8 @@ LeetCode Problem Solutions
 | ------- |
 | [0217-contains-duplicate](https://github.com/SahilB21/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SahilB21/leetcode/tree/master/0242-valid-anagram) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SahilB21/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
