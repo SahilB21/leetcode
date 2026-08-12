@@ -35,6 +35,7 @@ LeetCode Problem Solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SahilB21/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/SahilB21/leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Array
 |  |
 | ------- |
@@ -47,6 +48,7 @@ LeetCode Problem Solutions
 | [0238-product-of-array-except-self](https://github.com/SahilB21/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/SahilB21/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/SahilB21/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/SahilB21/leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Design
 |  |
 | ------- |
