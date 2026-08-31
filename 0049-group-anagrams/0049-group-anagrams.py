@@ -3,8 +3,9 @@ class Solution:
         result = {}
         for string in strs:
             letters = sorted(string)
-            if ("".join(letters)) not in result:
-                result[("".join(letters))] = []
-            result[("".join(letters))].append(string)
+            word = "".join(letters)
+            if (word) not in result:
+                result[word] = []
+            result[word].append(string)
         
         return list(result.values())
