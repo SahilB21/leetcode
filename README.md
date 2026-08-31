@@ -9,6 +9,7 @@ LeetCode Problem Solutions
 | [0001-two-sum](https://github.com/SahilB21/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SahilB21/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/SahilB21/leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/SahilB21/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/SahilB21/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SahilB21/leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/SahilB21/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -22,6 +23,7 @@ LeetCode Problem Solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SahilB21/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/SahilB21/leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/SahilB21/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/SahilB21/leetcode/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
@@ -43,6 +45,7 @@ LeetCode Problem Solutions
 | [0011-container-with-most-water](https://github.com/SahilB21/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SahilB21/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SahilB21/leetcode/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/SahilB21/leetcode/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SahilB21/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/SahilB21/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/SahilB21/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -73,6 +76,7 @@ LeetCode Problem Solutions
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SahilB21/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/SahilB21/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SahilB21/leetcode/tree/master/0242-valid-anagram) |
 ## Binary Search
