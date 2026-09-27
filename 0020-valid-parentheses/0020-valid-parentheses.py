@@ -1,6 +1,5 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        openBrackets = {"(", "[", "{"}
         stack = []
         pairs = {"(": ")", "[": "]", "{": "}"}
         for i in range(len(s)):
