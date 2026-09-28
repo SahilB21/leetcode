@@ -20,6 +20,7 @@ LeetCode Problem Solutions
 | ------- |
 | [0002-add-two-numbers](https://github.com/SahilB21/leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/SahilB21/leetcode/tree/master/0013-roman-to-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SahilB21/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## String
 |  |
 | ------- |
@@ -50,6 +51,7 @@ LeetCode Problem Solutions
 | [0027-remove-element](https://github.com/SahilB21/leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/SahilB21/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/SahilB21/leetcode/tree/master/0049-group-anagrams) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SahilB21/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SahilB21/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/SahilB21/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/SahilB21/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -117,6 +119,7 @@ LeetCode Problem Solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SahilB21/leetcode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SahilB21/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Bracket Sequences
 |  |
 | ------- |
