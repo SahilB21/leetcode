@@ -59,6 +59,7 @@ LeetCode Problem Solutions
 | [0303-range-sum-query-immutable](https://github.com/SahilB21/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/SahilB21/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/SahilB21/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/SahilB21/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/SahilB21/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/SahilB21/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/SahilB21/leetcode/tree/master/0739-daily-temperatures) |
@@ -124,6 +125,7 @@ LeetCode Problem Solutions
 | [0020-valid-parentheses](https://github.com/SahilB21/leetcode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SahilB21/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/SahilB21/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/SahilB21/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/SahilB21/leetcode/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
@@ -133,5 +135,6 @@ LeetCode Problem Solutions
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SahilB21/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/SahilB21/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/SahilB21/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
