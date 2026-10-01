@@ -64,6 +64,7 @@ LeetCode Problem Solutions
 | [0643-maximum-average-subarray-i](https://github.com/SahilB21/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/SahilB21/leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/SahilB21/leetcode/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/SahilB21/leetcode/tree/master/0875-koko-eating-bananas) |
 ## Design
 |  |
 | ------- |
@@ -97,6 +98,7 @@ LeetCode Problem Solutions
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SahilB21/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0875-koko-eating-bananas](https://github.com/SahilB21/leetcode/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
