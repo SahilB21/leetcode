@@ -148,4 +148,20 @@ LeetCode Problem Solutions
 | [0503-next-greater-element-ii](https://github.com/SahilB21/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/SahilB21/leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/SahilB21/leetcode/tree/master/0853-car-fleet) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/SahilB21/leetcode/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/SahilB21/leetcode/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/SahilB21/leetcode/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/SahilB21/leetcode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
