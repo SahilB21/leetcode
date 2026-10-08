@@ -52,6 +52,7 @@ LeetCode Problem Solutions
 | [0027-remove-element](https://github.com/SahilB21/leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/SahilB21/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/SahilB21/leetcode/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/SahilB21/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SahilB21/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SahilB21/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/SahilB21/leetcode/tree/master/0217-contains-duplicate) |
@@ -98,6 +99,7 @@ LeetCode Problem Solutions
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/SahilB21/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SahilB21/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/SahilB21/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/SahilB21/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -125,6 +127,7 @@ LeetCode Problem Solutions
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/SahilB21/leetcode/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/SahilB21/leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Stack
 |  |
 | ------- |
