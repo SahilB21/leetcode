@@ -69,6 +69,7 @@ LeetCode Problem Solutions
 | [0739-daily-temperatures](https://github.com/SahilB21/leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/SahilB21/leetcode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/SahilB21/leetcode/tree/master/0875-koko-eating-bananas) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/SahilB21/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Design
 |  |
 | ------- |
@@ -132,6 +133,7 @@ LeetCode Problem Solutions
 | ------- |
 | [0036-valid-sudoku](https://github.com/SahilB21/leetcode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/SahilB21/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/SahilB21/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Stack
 |  |
 | ------- |
@@ -169,6 +171,7 @@ LeetCode Problem Solutions
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SahilB21/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/SahilB21/leetcode/tree/master/0226-invert-binary-tree) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/SahilB21/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Binary Tree
 |  |
 | ------- |
