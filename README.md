@@ -31,6 +31,7 @@ LeetCode Problem Solutions
 | [0013-roman-to-integer](https://github.com/SahilB21/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/SahilB21/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/SahilB21/leetcode/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/SahilB21/leetcode/tree/master/0068-text-justification) |
 | [0242-valid-anagram](https://github.com/SahilB21/leetcode/tree/master/0242-valid-anagram) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/SahilB21/leetcode/tree/master/0777-swap-adjacent-in-lr-string) |
 ## Linked List
@@ -55,6 +56,7 @@ LeetCode Problem Solutions
 | [0027-remove-element](https://github.com/SahilB21/leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/SahilB21/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/SahilB21/leetcode/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/SahilB21/leetcode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/SahilB21/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SahilB21/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SahilB21/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -217,5 +219,6 @@ LeetCode Problem Solutions
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/SahilB21/leetcode/tree/master/0068-text-justification) |
 | [2402-meeting-rooms-iii](https://github.com/SahilB21/leetcode/tree/master/2402-meeting-rooms-iii) |
 <!---LeetCode Topics End-->
