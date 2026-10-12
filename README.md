@@ -186,4 +186,8 @@ LeetCode Problem Solutions
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/SahilB21/leetcode/tree/master/0528-random-pick-with-weight) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0552-student-attendance-record-ii](https://github.com/SahilB21/leetcode/tree/master/0552-student-attendance-record-ii) |
 <!---LeetCode Topics End-->
