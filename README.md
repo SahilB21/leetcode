@@ -16,6 +16,7 @@ LeetCode Problem Solutions
 | [0347-top-k-frequent-elements](https://github.com/SahilB21/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/SahilB21/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/SahilB21/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2402-meeting-rooms-iii](https://github.com/SahilB21/leetcode/tree/master/2402-meeting-rooms-iii) |
 ## Math
 |  |
 | ------- |
@@ -72,6 +73,7 @@ LeetCode Problem Solutions
 | [0853-car-fleet](https://github.com/SahilB21/leetcode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/SahilB21/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/SahilB21/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [2402-meeting-rooms-iii](https://github.com/SahilB21/leetcode/tree/master/2402-meeting-rooms-iii) |
 ## Design
 |  |
 | ------- |
@@ -103,6 +105,7 @@ LeetCode Problem Solutions
 | [0242-valid-anagram](https://github.com/SahilB21/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/SahilB21/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0853-car-fleet](https://github.com/SahilB21/leetcode/tree/master/0853-car-fleet) |
+| [2402-meeting-rooms-iii](https://github.com/SahilB21/leetcode/tree/master/2402-meeting-rooms-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -121,6 +124,7 @@ LeetCode Problem Solutions
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SahilB21/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0778-swim-in-rising-water](https://github.com/SahilB21/leetcode/tree/master/0778-swim-in-rising-water) |
+| [2402-meeting-rooms-iii](https://github.com/SahilB21/leetcode/tree/master/2402-meeting-rooms-iii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -210,4 +214,8 @@ LeetCode Problem Solutions
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/SahilB21/leetcode/tree/master/0778-swim-in-rising-water) |
+## Simulation
+|  |
+| ------- |
+| [2402-meeting-rooms-iii](https://github.com/SahilB21/leetcode/tree/master/2402-meeting-rooms-iii) |
 <!---LeetCode Topics End-->
