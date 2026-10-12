@@ -67,6 +67,7 @@ LeetCode Problem Solutions
 | [0643-maximum-average-subarray-i](https://github.com/SahilB21/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/SahilB21/leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/SahilB21/leetcode/tree/master/0739-daily-temperatures) |
+| [0778-swim-in-rising-water](https://github.com/SahilB21/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0853-car-fleet](https://github.com/SahilB21/leetcode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/SahilB21/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/SahilB21/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -107,6 +108,7 @@ LeetCode Problem Solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SahilB21/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0528-random-pick-with-weight](https://github.com/SahilB21/leetcode/tree/master/0528-random-pick-with-weight) |
 | [0704-binary-search](https://github.com/SahilB21/leetcode/tree/master/0704-binary-search) |
+| [0778-swim-in-rising-water](https://github.com/SahilB21/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/SahilB21/leetcode/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
@@ -116,6 +118,7 @@ LeetCode Problem Solutions
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SahilB21/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0778-swim-in-rising-water](https://github.com/SahilB21/leetcode/tree/master/0778-swim-in-rising-water) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -133,6 +136,7 @@ LeetCode Problem Solutions
 | ------- |
 | [0036-valid-sudoku](https://github.com/SahilB21/leetcode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/SahilB21/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0778-swim-in-rising-water](https://github.com/SahilB21/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/SahilB21/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Stack
 |  |
@@ -166,11 +170,13 @@ LeetCode Problem Solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/SahilB21/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/SahilB21/leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SahilB21/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0778-swim-in-rising-water](https://github.com/SahilB21/leetcode/tree/master/0778-swim-in-rising-water) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SahilB21/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/SahilB21/leetcode/tree/master/0226-invert-binary-tree) |
+| [0778-swim-in-rising-water](https://github.com/SahilB21/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/SahilB21/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Binary Tree
 |  |
@@ -190,4 +196,16 @@ LeetCode Problem Solutions
 |  |
 | ------- |
 | [0552-student-attendance-record-ii](https://github.com/SahilB21/leetcode/tree/master/0552-student-attendance-record-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/SahilB21/leetcode/tree/master/0778-swim-in-rising-water) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/SahilB21/leetcode/tree/master/0778-swim-in-rising-water) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/SahilB21/leetcode/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
