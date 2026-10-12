@@ -31,6 +31,7 @@ LeetCode Problem Solutions
 | [0020-valid-parentheses](https://github.com/SahilB21/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/SahilB21/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/SahilB21/leetcode/tree/master/0242-valid-anagram) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/SahilB21/leetcode/tree/master/0777-swap-adjacent-in-lr-string) |
 ## Linked List
 |  |
 | ------- |
@@ -89,6 +90,7 @@ LeetCode Problem Solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SahilB21/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SahilB21/leetcode/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SahilB21/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/SahilB21/leetcode/tree/master/0777-swap-adjacent-in-lr-string) |
 ## Greedy
 |  |
 | ------- |
